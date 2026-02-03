@@ -16,17 +16,17 @@ This portfolio highlights projects demonstrating both **memory-efficient, high-p
 
 - **Saving Val** - high-performance 2D light reflection system  
   *Stable ~100 FPS with 500 recursive reflections. Demonstrates algorithmic optimization, floating-point accuracy, and performance-critical real-time execution. Applicable to both engine/gameplay and high-performance systems.*  
-  [Full Gameplay](https://www.youtube.com/watch?v=orn1dJGdGkc&list=PLUyRFwTbZyB40iWJgs44lSrRT4p3lXsW3)
+  [Full Gameplay](https://www.youtube.com/watch?v=orn1dJGdGkc&list=PLUyRFwTbZyB40iWJgs44lSrRT4p3lXsW3)  
   [Short Gameplay](https://www.youtube.com/watch?v=mYY6n3EFD_8&list=PLUyRFwTbZyB64grz5ws3msl77_8BYluAT)
 
 - **Devil Daggers Genetic Algorithm Simulation** - concurrent AI agent  
   *Multi-threaded simulation for learning survival strategies. Shows concurrent execution, and computational efficiency - relevant for game AI and low-latency system design.*  
-  [Read more](https://github.com/Polynucleotide/DevilDaggersGA)
+  [Read more](https://github.com/Polynucleotide/DevilDaggersGA)  
   [Demo](https://www.youtube.com/watch?v=WXQQ8S-K4l0&list=PLUyRFwTbZyB64grz5ws3msl77_8BYluAT)
 
 - **Valkyrie Engine Systems** - particle pooling & memory-optimized updates  
   *Improved particle throughput ~30x and eliminated runtime allocations. Showcases engine-level design with high-throughput, predictable performance applicable to both games and low-latency systems.*  
-  [Full Gameplay](https://www.youtube.com/watch?v=CQ4yevyjIbE&list=PLUyRFwTbZyB40iWJgs44lSrRT4p3lXsW3)
+  [Full Gameplay](https://www.youtube.com/watch?v=CQ4yevyjIbE&list=PLUyRFwTbZyB40iWJgs44lSrRT4p3lXsW3)  
   [Short Gameplay](https://www.youtube.com/watch?v=Ee1289O75u4&list=PLUyRFwTbZyB64grz5ws3msl77_8BYluAT)
 
 ---
