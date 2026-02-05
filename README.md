@@ -30,14 +30,14 @@ This portfolio highlights projects demonstrating both **memory-efficient, high-p
 
 ---
 
-### Engine & Runtime Architecture
-- **Custom Game Engine Scripting System** - Unity-style lifecycle & scalable scripting  
-  *Designed engine-level systems for team prototypes with memory-efficient, predictable execution. Supports rapid gameplay feature prototyping.*  
-  [Read more](./ScriptingEngine/README.md)
-
----
-
 ### Low-Level
 - **x86 Assembly Experiments** - sorting, geometry, pointer arithmetic  
   *Explored low-level memory layouts, register use, and arithmetic precision. Reinforces understanding of data representation, cache effects, and memory-efficient algorithms.*  
   [Read more](https://github.com/Polynucleotide/Exploring-Assembly-with-FASM)
+
+---
+
+### Engine & Runtime Architecture
+- **Custom Game Engine Scripting System** - Unity-style lifecycle & scalable scripting  
+  *Designed engine-level systems for team prototypes with memory-efficient, predictable execution. Supports rapid gameplay feature prototyping.*  
+  [Read more](./ScriptingEngine/README.md)
