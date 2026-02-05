@@ -1,8 +1,7 @@
 # Portfolio - Systems & Game Development
 
 I'm a third-year computer science student with a focus on performance-critical, real-time systems in C++.  
-My work spans engine and game development, and low-level systems, emphasizing memory efficiency, low-latency,  
-high-throughput, and high-throughput.
+My work spans engine and game development, and low-level systems, emphasizing memory efficiency, low-latency, and high-throughput.
 
 This portfolio highlights projects demonstrating both **memory-efficient, high-performance systems**, and **game development** skills.  
 
